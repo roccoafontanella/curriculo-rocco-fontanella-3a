@@ -35,7 +35,7 @@ body {
     margin: 40px auto;
     background-color: aliceblue;
     padding: 30px;
-    box-shadow: 0 40px 10px rgba(0,0,0.1);
+    box-shadow: 0 20px 10px rgba(0,0,0.1);
     border-radius: 10px;
 }
 
